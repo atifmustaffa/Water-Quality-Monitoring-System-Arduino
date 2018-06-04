@@ -1,3 +1,5 @@
 # Water-Quality-Monitoring-System-Arduino
 
--- Arduino codes (sensors)
+Arduino board codes(sensors) for water quality monitoring system.
+
+A part of final year project KICT, IIUM
